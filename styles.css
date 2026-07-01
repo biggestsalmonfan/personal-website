@@ -1,0 +1,50 @@
+/* high-level */
+
+* {
+    font-family: Helvetica, sans-serif;
+
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    min-width: 300px;
+    max-width: 600px;
+    margin: 10% auto;
+    padding: 2%;
+    
+    border-left: 2px solid black;
+    border-top:  2px solid black;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+address {
+    color: grey;
+}
+
+/* heading */
+
+#fish1,
+#fish2,
+#fish3,
+#fish4 {
+    color: grey;
+    margin-left: 7px;
+    display: inline-block;
+}
+#fish1 {
+    font-size: 60%;
+}
+#fish2 {
+    font-size: 40%;
+}
+#fish3 {
+    font-size: 20%;
+}
+#fish4 {
+    font-size: 10%;
+}
